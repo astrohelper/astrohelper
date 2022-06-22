@@ -6,3 +6,6 @@ _And for your information, in this land of crazy things, 2 + 2 = 5 and sqrt(-9) 
 _Get a picture of what I'm facing to not fall into the Great Void:_
 
 <img align="center" width="100%" src="https://github.com/astroxiiz/astroxiiz/blob/main/omfg.jpg"/>
+
+<h3 align="center">Have a good week.</h3>
+<h3 align="center">¯\_(ツ)_/¯</h3>
